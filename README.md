@@ -25,4 +25,4 @@ alias mvn="~/.commandless/maven_slim"
 
 ## Padrão dos nomes dos arquivos
 
-Como os comandos dependem das imagens, duas informações são utilizadas para organização, o nome da imagem e a tag, ficando `nome_tag`.
+Como os comandos dependem das imagens, duas informações são utilizadas para organização, o nome da imagem e a tag, ficando `nome_tag`. Caso a imagem disponibilize mais de um comando, será utilizado o padrão `nome-comando_tag`.
